@@ -12,7 +12,7 @@ Both sides follow **DRY principles** with reusable components, a luxury design s
 ## ✨ Features
 
 ### Client Side
-- Responsive **landing page** inspired by Oraimo KE:
+- Responsive **landing page** KE:
   - 4-card horizontal product highlights
   - Left-side filter mechanism
   - Animated **info cards** (Earn points, Free Delivery, Warranty) using Framer Motion
